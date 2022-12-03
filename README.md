@@ -1,4 +1,3 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+ - This landing page was implemented according to [this design from Figma](https://www.figma.com/file/Fz588JKGuPS2Bk21De4KE5/Brand-of-eco-cosmetics-_FE-students?node-id=1%3A2&t=PmTKUkiTjPkFXUnM-0).
+ - [DEMO LINK]( https://zhenija.github.io/Eco_cosmetics_layout/)
+ - The work was done using HTML and SCSS.
